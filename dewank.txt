@@ -1,1 +1,6 @@
 hello I am dewank.
+Hello I am Harsh and Dakshata 
+
+git -> VCS | github - Storage
+
+git -> life of a file -> modified/create/delete -> we add files to the stage -> commit  -> push 
